@@ -1,2 +1,2 @@
 # Go-Test
-Type go run Main.go to run this Program.
+Type "go run Main.go" to run this Program.
