@@ -3,6 +3,10 @@ import "fmt"
 import "strconv"
 import "strings"
 
+/*
+	Type "go run Main.go" to run this Program
+*/
+
 type Node struct {
 	data 			byte
 	children 	[]Node
